@@ -1,6 +1,6 @@
 # BuildUrApp
 How Build And Monitize Any App By Few Steps
-# Lecture: "Build & Monetize Mobile Apps in 2025: A Scalable 3-Step System"
+# Build & Monetize Mobile Apps in 2025: A Scalable 3-Step System
 
 ## Introduction
 
